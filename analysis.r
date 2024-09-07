@@ -1,5 +1,5 @@
 # Load data
-data <- read.csv('/home/simon-makumi/R/Spotify_analysis_with_R/spotify-2023.csv')
+data <- read.csv('/Spotify_analysis_with_R/spotify-2023.csv')
 
 # Display first few rows
 head(data)
